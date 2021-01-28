@@ -1,7 +1,7 @@
 # RealtionalDB
 Rudimentary Implementation of my own relational database in cpp
 
-Commands include CREATE, INSERT INTO, REMOVE, QUIT, DELETE, DELETE FROM...WHERE, PRINT, PRINT FROM...WHERE
+Commands include CREATE, INSERT INTO, REMOVE, QUIT, DELETE, DELETE FROM...WHERE, PRINT, PRINT FROM...WHERE, JOIN
 
 ex)
 
